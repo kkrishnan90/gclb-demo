@@ -1,4 +1,4 @@
-# gclb-demo
+# Google Cloud Global HTTP Load Balancer Demo
 A demo showcasing the Google global load balancing capabilities.
 
 ## To run the demo follow the steps (Ensure to have proper APIs enabled - specifically Compute Engine API)
