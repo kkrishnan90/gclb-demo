@@ -10,7 +10,7 @@ A demo showcasing the Google global load balancing capabilities.
 6. Copy the load balancer IP created on GCP console
 7. If necessary to test Global Load Balancing capabilities, spin up a Windows VM in <code>us region</code> and use local browser
 8. Use the Windows VM and copy the load balancer IP to the browser. As per the global load balancing logic, US instance application will be shown
-9. Since I'm in Asia, if tried locally (the nearest asia-southeast1) the Asia application is shown
+9. Since I'm in Asia, if try locally on my laptop(the nearest asia-southeast1) the Asia application is shown
 
 Reference Code for frontend <code>html</code> file <url>https://gist.githubusercontent.com/kkrishnan90/fd19913589cf2e6ca91b8ce5059226ca/raw/43263e747ed3433c116adc903e4056994f4de8dc/index.php</url>
 
